@@ -20,5 +20,9 @@
     "svelte": "latest",
     "tailwindcss": "latest"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "firebase": "^8.7.0"
+  }
 }
